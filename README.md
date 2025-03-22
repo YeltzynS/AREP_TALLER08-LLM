@@ -33,7 +33,7 @@ Sigue estos pasos para configurar y ejecutar el código:
 
 ###  Clona el Repositorio
 ```bash
-git clone https://github.com/tu-usuario/langchain-tutorials.git
+git clone https://github.com/YeltzynS/AREP_TALLER08-LLM.git
 ```
 
 ### Dependencias
