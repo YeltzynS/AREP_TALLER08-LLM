@@ -84,7 +84,7 @@ for token in model.stream(messages):
     print(token.content, end="|")
 ```
 
-![img2.png](img/img2.png)
+![img5.png](img/img5.png)
 
 
 
@@ -127,4 +127,11 @@ response = model.invoke(prompt)
 print(response.content)
 ```
 
-![img2.png](img/img2.png)
+![img5.png](img/img6.png)
+
+
+### Author
+- Yeltzyn Sierra
+  
+### License
+This project is licensed under the MIT license: see the LICENSE.md file for details.
